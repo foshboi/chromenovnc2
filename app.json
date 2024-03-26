@@ -27,8 +27,8 @@
          "required":true
       },
       "VNC_RESOLUTION":{
-         "description":"VNC Server Resolution in WxH, 720p is preferrable.",
-         "value":"1280x720",
+         "description":"VNC Server Resolution in WxH, 720p is preferrable but you can try 1080p as well.",
+         "value":"1920×1080",
          "required":true
       },
       "NO_SLEEP":{
